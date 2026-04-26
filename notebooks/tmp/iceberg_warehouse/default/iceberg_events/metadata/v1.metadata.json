@@ -1,0 +1,51 @@
+{
+  "format-version" : 2,
+  "table-uuid" : "b2d9dd25-46ea-4003-bfbf-ce525a28a6c2",
+  "location" : "/home/gabriel/GitHub/datalakehouse-study/notebooks/tmp/iceberg_warehouse/default/iceberg_events",
+  "last-sequence-number" : 0,
+  "last-updated-ms" : 1777241644503,
+  "last-column-id" : 3,
+  "current-schema-id" : 0,
+  "schemas" : [ {
+    "type" : "struct",
+    "schema-id" : 0,
+    "fields" : [ {
+      "id" : 1,
+      "name" : "id",
+      "required" : false,
+      "type" : "int"
+    }, {
+      "id" : 2,
+      "name" : "name",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 3,
+      "name" : "event_date",
+      "required" : false,
+      "type" : "date"
+    } ]
+  } ],
+  "default-spec-id" : 0,
+  "partition-specs" : [ {
+    "spec-id" : 0,
+    "fields" : [ ]
+  } ],
+  "last-partition-id" : 999,
+  "default-sort-order-id" : 0,
+  "sort-orders" : [ {
+    "order-id" : 0,
+    "fields" : [ ]
+  } ],
+  "properties" : {
+    "owner" : "gabriel",
+    "write.parquet.compression-codec" : "zstd"
+  },
+  "current-snapshot-id" : -1,
+  "refs" : { },
+  "snapshots" : [ ],
+  "statistics" : [ ],
+  "partition-statistics" : [ ],
+  "snapshot-log" : [ ],
+  "metadata-log" : [ ]
+}
