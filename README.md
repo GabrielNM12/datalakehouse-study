@@ -66,21 +66,11 @@ poetry --version   # Poetry (version x.x.x)
 
 ### Configurar JAVA_HOME
 
-**Linux / macOS**: adicione ao `~/.bashrc` ou `~/.zshrc` e reinicie o terminal:
+**Linux**: adicione ao `~/.bashrc` ou `~/.zshrc` e reinicie o terminal:
 
 ```bash
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 export PATH=$JAVA_HOME/bin:$PATH
-```
-
-**Windows**: execute no PowerShell como Administrador:
-
-```powershell
-[System.Environment]::SetEnvironmentVariable(
-  "JAVA_HOME",
-  "C:\Program Files\Eclipse Adoptium\jdk-17.x.x.x-hotspot",
-  "Machine"
-)
 ```
 
 > Após configurar, feche e reabra o terminal. Verifique com `echo $JAVA_HOME` (Linux/macOS) ou `echo %JAVA_HOME%` (Windows).
