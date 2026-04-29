@@ -9,7 +9,7 @@
 [![Apache Iceberg](https://img.shields.io/badge/iceberg-1.3.0-4B8BBE)](https://iceberg.apache.org/)
 [![MkDocs](https://img.shields.io/badge/docs-mkdocs-526CFE?logo=materialformkdocs&logoColor=white)](https://GabrielNM12.github.io/datalakehouse-study)
 
-&nbsp; 
+
 
 ## Participantes
 
@@ -26,7 +26,7 @@ As explicações sobre as tecnologias utilizadas estão disponíveis no MkDocs d
 
 🔗 **https://GabrielNM12.github.io/datalakehouse-study**
 
-&nbsp; 
+
 
 ## Estrutura do Projeto
 
@@ -84,7 +84,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 
 > Após configurar, feche e reabra o terminal. Verifique com `echo $JAVA_HOME` (Linux/macOS) ou `echo %JAVA_HOME%` (Windows).
 
-&nbsp; 
+
 
 ## Instalação
 
@@ -109,7 +109,7 @@ poetry install
 
 > Isso cria a pasta `.venv/` com todas as dependências do `pyproject.toml`. Requer conexão com a internet — o Spark também baixará pacotes Maven na primeira execução dos notebooks.
 
-&nbsp; 
+
 ## Dependências
 
 Versões definidas no `pyproject.toml`:
@@ -125,7 +125,7 @@ mkdocs-material = "^9.0"
 
 > O pacote Iceberg (`org.apache.iceberg:iceberg-spark-runtime-3.5_2.12:1.3.0`) é baixado via Maven pelo Spark na primeira execução do notebook `iceberg.ipynb`.
 
-&nbsp; 
+
 
 ##  Executar os Notebooks
 
@@ -152,7 +152,7 @@ Acesse **http://localhost:8888** e abra os notebooks na ordem:
 
 > Em ambos os casos, execute as células **uma a uma**. A célula de configuração da SparkSession pode levar alguns segundos na primeira execução.
 
-&nbsp; 
+
 
 ## 📝 Referências
 
@@ -164,7 +164,7 @@ Acesse **http://localhost:8888** e abra os notebooks na ordem:
 - 📘 [Documentação PySpark](https://spark.apache.org/docs/latest/api/python/)
 - 📘 [Documentação Poetry](https://python-poetry.org/docs/)
 
----
+
 &nbsp; 
 
 <div align="center">
