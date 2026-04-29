@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://GabrielNM12.github.io/datalakehouse-study/</loc>
+         <loc>https://vanessaugioni.github.io/datalakehouse-study/</loc>
          <lastmod>2026-04-29</lastmod>
     </url>
     <url>
-         <loc>https://GabrielNM12.github.io/datalakehouse-study/delta/</loc>
+         <loc>https://vanessaugioni.github.io/datalakehouse-study/delta/</loc>
          <lastmod>2026-04-29</lastmod>
     </url>
     <url>
-         <loc>https://GabrielNM12.github.io/datalakehouse-study/iceberg/</loc>
+         <loc>https://vanessaugioni.github.io/datalakehouse-study/iceberg/</loc>
          <lastmod>2026-04-29</lastmod>
     </url>
     <url>
-         <loc>https://GabrielNM12.github.io/datalakehouse-study/spark/</loc>
+         <loc>https://vanessaugioni.github.io/datalakehouse-study/spark/</loc>
          <lastmod>2026-04-29</lastmod>
     </url>
 </urlset>
