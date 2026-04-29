@@ -7,7 +7,7 @@
 [![Apache Spark](https://img.shields.io/badge/spark-3.5.1-E25A1C?logo=apachespark&logoColor=white)](https://spark.apache.org/)
 [![Delta Lake](https://img.shields.io/badge/delta_lake-3.2.0-003366?logoColor=white)](https://delta.io/)
 [![Apache Iceberg](https://img.shields.io/badge/iceberg-1.3.0-4B8BBE)](https://iceberg.apache.org/)
-[![MkDocs](https://img.shields.io/badge/docs-mkdocs-526CFE?logo=materialformkdocs&logoColor=white)](https://GabrielNM12.github.io/datalakehouse-study)
+[![MkDocs](https://img.shields.io/badge/docs-mkdocs-526CFE?logo=materialformkdocs&logoColor=white)](https://vanessaugioni.github.io/datalakehouse-study)
 
 
 
@@ -24,7 +24,7 @@
 
 As explicações sobre as tecnologias utilizadas estão disponíveis no MkDocs do projeto:
 
-🔗 **https://GabrielNM12.github.io/datalakehouse-study**
+🔗 **https://vanessaugioni.github.io/datalakehouse-study**
 
 
 

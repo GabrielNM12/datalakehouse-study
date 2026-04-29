@@ -1,8 +1,8 @@
 site_name: DataLakehouse Study
 site_description: Apache Spark com Delta Lake e Apache Iceberg
-site_url: https://GabrielNM12.github.io/datalakehouse-study
-repo_url: https://github.com/GabrielNM12/datalakehouse-study
-repo_name: GabrielNM12/datalakehouse-study
+site_url: https://vanessaugioni.github.io/datalakehouse-study
+repo_url: https://github.com/vanessaugioni/datalakehouse-study
+repo_name: vanessaugioni/datalakehouse-study
 
 theme:
   name: material
