@@ -1,9 +1,9 @@
 {
   "format-version" : 2,
-  "table-uuid" : "1e5d8156-e0c9-4b72-b087-fab07597e726",
+  "table-uuid" : "68c64bda-e618-4dcc-be52-3f15e730fcfe",
   "location" : "/home/gabriel/GitHub/datalakehouse-study/notebooks/tmp/iceberg_warehouse/default/iceberg_events",
   "last-sequence-number" : 0,
-  "last-updated-ms" : 1777437638165,
+  "last-updated-ms" : 1777502599733,
   "last-column-id" : 3,
   "current-schema-id" : 0,
   "schemas" : [ {

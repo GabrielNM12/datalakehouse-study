@@ -21,6 +21,7 @@ mkdocs = "^1.5"
 mkdocs-material = "^9.5"
 ipywidgets = "^8.0"
 numpy = "<2"
+pymdown-extensions = "^10.21.2"
 
 [build-system]
 requires = ["poetry-core"]

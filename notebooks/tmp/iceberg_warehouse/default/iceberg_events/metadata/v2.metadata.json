@@ -1,9 +1,9 @@
 {
   "format-version" : 2,
-  "table-uuid" : "1e5d8156-e0c9-4b72-b087-fab07597e726",
+  "table-uuid" : "68c64bda-e618-4dcc-be52-3f15e730fcfe",
   "location" : "/home/gabriel/GitHub/datalakehouse-study/notebooks/tmp/iceberg_warehouse/default/iceberg_events",
   "last-sequence-number" : 1,
-  "last-updated-ms" : 1777437641713,
+  "last-updated-ms" : 1777502603488,
   "last-column-id" : 3,
   "current-schema-id" : 0,
   "schemas" : [ {
@@ -41,20 +41,20 @@
     "owner" : "gabriel",
     "write.parquet.compression-codec" : "zstd"
   },
-  "current-snapshot-id" : 6740213276046522860,
+  "current-snapshot-id" : 8268123483141777145,
   "refs" : {
     "main" : {
-      "snapshot-id" : 6740213276046522860,
+      "snapshot-id" : 8268123483141777145,
       "type" : "branch"
     }
   },
   "snapshots" : [ {
     "sequence-number" : 1,
-    "snapshot-id" : 6740213276046522860,
-    "timestamp-ms" : 1777437641713,
+    "snapshot-id" : 8268123483141777145,
+    "timestamp-ms" : 1777502603488,
     "summary" : {
       "operation" : "append",
-      "spark.app.id" : "local-1777437634898",
+      "spark.app.id" : "local-1777502595712",
       "added-data-files" : "3",
       "added-records" : "3",
       "added-files-size" : "2656",
@@ -66,17 +66,17 @@
       "total-position-deletes" : "0",
       "total-equality-deletes" : "0"
     },
-    "manifest-list" : "/home/gabriel/GitHub/datalakehouse-study/notebooks/tmp/iceberg_warehouse/default/iceberg_events/metadata/snap-6740213276046522860-1-25666788-d4d0-4675-8125-a5c5eac322d9.avro",
+    "manifest-list" : "/home/gabriel/GitHub/datalakehouse-study/notebooks/tmp/iceberg_warehouse/default/iceberg_events/metadata/snap-8268123483141777145-1-92ddace5-b524-4be4-97d4-c138b12c1a87.avro",
     "schema-id" : 0
   } ],
   "statistics" : [ ],
   "partition-statistics" : [ ],
   "snapshot-log" : [ {
-    "timestamp-ms" : 1777437641713,
-    "snapshot-id" : 6740213276046522860
+    "timestamp-ms" : 1777502603488,
+    "snapshot-id" : 8268123483141777145
   } ],
   "metadata-log" : [ {
-    "timestamp-ms" : 1777437638165,
+    "timestamp-ms" : 1777502599733,
     "metadata-file" : "/home/gabriel/GitHub/datalakehouse-study/notebooks/tmp/iceberg_warehouse/default/iceberg_events/metadata/v1.metadata.json"
   } ]
 }
